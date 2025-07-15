@@ -9,12 +9,12 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/profile.png`} alt="Jérémie Beucler" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Jérémie Beucler</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:jeremie.beucler@gmail.com">jeremie.beucler@gmail.com</a>
         </p>
       </header>
     </section>
@@ -22,13 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hello there! I am a PhD student in cognitive science at{' '}
+        <a href="https://www.lapsyde.com/home">LaPsyDÉ (CNRS & Université Paris Cité)</a>. s.
       </p>
       <ul className="actions">
         <li>
@@ -48,7 +43,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Jérémie Beucler <Link to="/">jeremiebeucler.github.io</Link>.
       </p>
     </section>
   </section>
