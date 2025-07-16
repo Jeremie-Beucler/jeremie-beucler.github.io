@@ -6,8 +6,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Jeremie-Beucler/jeremiebeucler.github.io"
-  }
-},
+  },
   "engines": {
     "node": ">=16.x"
   },
