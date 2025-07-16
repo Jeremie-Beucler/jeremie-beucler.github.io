@@ -1,12 +1,13 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://Jeremie-Beucler.github.io",
+  "homepage": "https://jeremie-beucler.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": " https://jeremie-beucler.github.io/"
-  },
+    "url": "https://github.com/Jeremie-Beucler/jeremiebeucler.github.io"
+  }
+},
   "engines": {
     "node": ">=16.x"
   },
